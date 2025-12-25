@@ -1,3 +1,4 @@
 streamlit
-streamlit-auth0-component
+plotly
 pandas
+streamlit-auth0-component
