@@ -2,3 +2,4 @@ streamlit
 plotly
 pandas
 streamlit-auth0-component
+psycopg2-binary
